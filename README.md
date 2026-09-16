@@ -114,3 +114,17 @@ php artisan migrate --force
 * **cron-job.org** — External task scheduling for `schedule:run`
 * **Render** — Backend deployment platform
 * **Aiven** — Managed MySQL hosting
+
+---
+
+## 🗄️ Database Architecture (ERD)
+
+Here is the Entity Relationship Diagram showing the database schema, tables, and relationships for the Tripora platform:
+
+<div align="center">
+  <h2>🗄️ Database Schema & ERD</h2>
+  <p>Entity-Relationship Diagram illustrating models, attributes, and foreign key relations.</p>
+  <img width="7264" height="5360" alt="Untitled Diagram drawio" src="https://github.com/user-attachments/assets/e7a32b2c-5828-40df-93a9-ad6f99df8742" />
+</div>
+
+---
